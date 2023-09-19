@@ -1,0 +1,18 @@
+h1, a{
+    color: blue;
+    text-decoration: underline;
+}
+h2{
+    color: blue;
+}
+table{
+    border-collapse: collapse;
+}
+th, td{
+    border-bottom: 1px solid;
+    padding: 5px; 
+}
+title{
+    font-family: Verdana, sans-serif;
+    font-size: 20pt;
+}
